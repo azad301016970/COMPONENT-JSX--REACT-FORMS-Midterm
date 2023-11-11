@@ -1,0 +1,41 @@
+.form-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.form-title {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #ccc; 
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px; 
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+}
+
+
